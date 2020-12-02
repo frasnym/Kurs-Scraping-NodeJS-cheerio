@@ -1,4 +1,4 @@
-# Basic Membership API - NodeJS
+# Kurs Scraping with NodeJS - cheerio
 
 Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
